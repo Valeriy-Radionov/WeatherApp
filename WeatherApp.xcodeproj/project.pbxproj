@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2A7FB0C4249C06FE00749632 /* ViewController+alertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7FB0C3249C06FE00749632 /* ViewController+alertController.swift */; };
-		2AC57BDE24A26B5E00473335 /* ForecastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AC57BDD24A26B5E00473335 /* ForecastViewController.swift */; };
 		2AC57BE024A27ABE00473335 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2AC57BDF24A27ABE00473335 /* .gitignore */; };
 		2ADD4908249DE91E00B35821 /* NetworkWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD4907249DE91E00B35821 /* NetworkWeatherManager.swift */; };
 		2ADD490A249DEAE700B35821 /* Constans.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADD4909249DEAE700B35821 /* Constans.swift */; };
@@ -24,7 +23,6 @@
 
 /* Begin PBXFileReference section */
 		2A7FB0C3249C06FE00749632 /* ViewController+alertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+alertController.swift"; sourceTree = "<group>"; };
-		2AC57BDD24A26B5E00473335 /* ForecastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastViewController.swift; sourceTree = "<group>"; };
 		2AC57BDF24A27ABE00473335 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		2ADD4907249DE91E00B35821 /* NetworkWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkWeatherManager.swift; sourceTree = "<group>"; };
 		2ADD4909249DEAE700B35821 /* Constans.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constans.swift; sourceTree = "<group>"; };
@@ -92,7 +90,6 @@
 			isa = PBXGroup;
 			children = (
 				2AF029A1249A93E300500DA7 /* ViewController.swift */,
-				2AC57BDD24A26B5E00473335 /* ForecastViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -206,7 +203,6 @@
 				2ADD490A249DEAE700B35821 /* Constans.swift in Sources */,
 				2ADD4908249DE91E00B35821 /* NetworkWeatherManager.swift in Sources */,
 				2AF0299E249A93E300500DA7 /* AppDelegate.swift in Sources */,
-				2AC57BDE24A26B5E00473335 /* ForecastViewController.swift in Sources */,
 				2ADD490C249DF36600B35821 /* CurrentWeatherData.swift in Sources */,
 				2AF029A0249A93E300500DA7 /* SceneDelegate.swift in Sources */,
 			);
