@@ -86,7 +86,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZAV-vT-jHM" userLabel="City+icon View">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="283"/>
                                         <subviews>
-                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue-sky-blur-clear-sky-color-281260 (1)" translatesAutoresizingMaskIntoConstraints="NO" id="Gpi-zB-BcR">
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blue-sky" translatesAutoresizingMaskIntoConstraints="NO" id="Gpi-zB-BcR">
                                                 <rect key="frame" x="0.0" y="0.0" width="414" height="283"/>
                                             </imageView>
                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="11" translatesAutoresizingMaskIntoConstraints="NO" id="aod-4l-aI6" userLabel="City+icon weather">
@@ -370,7 +370,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="blue-sky-blur-clear-sky-color-281260 (1)" width="1280" height="847"/>
+        <image name="blue-sky" width="1280" height="847"/>
         <image name="humidity" width="216" height="217"/>
         <image name="magnifyingglass" catalog="system" width="128" height="115"/>
         <image name="nosign" catalog="system" width="128" height="121"/>
